@@ -9,4 +9,7 @@ def summation(n1, n2):
 def subbtraction(n1, n2):
 	return n1 - n2
 
+def test():
+	print('Helpp')
+
 cal(int(input()), int(input()))
